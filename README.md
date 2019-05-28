@@ -5,6 +5,8 @@ This tool uses a JSON data file from http://www.dev-c.com/nativedb/
 
 Natives with no Name have been excluded in the results.
 
+![Screenshot](https://i.gyazo.com/26771982621b7d837f4730362de1547c.png)
+
 - PLAYER [212]
 - ENTITY [161]
 - PED [570]
@@ -44,5 +46,3 @@ Natives with no Name have been excluded in the results.
 - DECORATOR [13]
 - SOCIALCLUB [60]
 
-
-![Screenshot](https://i.gyazo.com/26771982621b7d837f4730362de1547c.png)
