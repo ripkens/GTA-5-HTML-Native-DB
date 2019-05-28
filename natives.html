@@ -58,7 +58,7 @@
 							natives.push({
 								category: '<span class="badge badge-danger">' + category + '</div>',
 								name: 'game.' + camelize(data[category][hash].name) + '(' + params.join(', ') + ');',
-								hash: hash,
+								hash: '<a href="http://www.dev-c.com/nativedb/func/find?q=' + hash + '" target="_blank">' + hash + '</a>',
 								result: data[category][hash].results
 							});
 						}
