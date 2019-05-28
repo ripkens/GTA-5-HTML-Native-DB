@@ -1,4 +1,5 @@
-# GTA-5-HTMl-Native-DB
+# GTA-5-HTML-Native-DB for alt:V 
+
 Native DB as single HTML file with Bootstrap 4 + Datatables and JQuery
 
 This tool uses a JSON data file from http://www.dev-c.com/nativedb/
