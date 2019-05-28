@@ -5,7 +5,7 @@ Native DB as single HTML file with Bootstrap 4 + Datatables and JQuery
 This tool uses a JSON data file from http://www.dev-c.com/nativedb/ which is implemented in the HTML file.
 If you want to update without waiting for me doing it, use the following file and copy the content into the natives array:
 
-[JSON src from Native DB](http://www.dev-c.com/nativedb/natives.json)
+[JSON Natives from Native DB](http://www.dev-c.com/nativedb/natives.json)
 
 Natives with no Name have been excluded in the results.
 
